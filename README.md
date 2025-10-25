@@ -31,8 +31,8 @@ An intelligent web scraping application that uses AI to extract specific informa
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/rchhabra13/portfolio-projects.git
-   cd portfolio-projects/web_scrapping_ai_agent
+   git clone https://github.com/rchhabra13/web_scrapping_ai_agent.git
+   cd web_scrapping_ai_agent
    ```
 
 2. **Install dependencies**
